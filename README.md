@@ -1,0 +1,2 @@
+# JustNewbieLearning
+For myself learning
